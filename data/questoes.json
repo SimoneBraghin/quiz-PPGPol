@@ -1,0 +1,706 @@
+[
+  {
+    "id": 1,
+    "num_original": "Q10",
+    "vestibular": "FUVEST 2023",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "\"Em nossa época, entretanto, devemos conceber o Estado contemporâneo como uma comunidade humana que, dentro dos limites de determinado território (...) reivindica o monopólio do uso legítimo da violência física. É, com efeito, próprio de nossa época não reconhecer, em relação a qualquer outro grupo ou aos indivíduos, o direito de fazer uso da violência, a não ser nos casos em que o Estado o tolere: o Estado se transforma, portanto, na única fonte do 'direito' à violência.\" (WEBER, Max. Ciência e Política: duas vocações.) / \"Com a entrada das milícias na disputa por territórios no Rio de Janeiro, elas passaram a se digladiar pelo domínio geográfico das comunidades cariocas e fluminenses (...). Embora as milícias também comandem a comunidade com tirania e sua autoridade se mantenha à base de ameaças (...) os milicianos se vendem como fiadores de mercadorias valiosíssimas: ordem, estabilidade e possibilidade de planejar o futuro, aliança política com o Estado e a polícia.\" (PAES MANSO, Bruno. A república das milícias.) // A partir da definição de Estado proposta por Max Weber e de acordo com a citação de Paes Manso, como é possível analisar a atuação das milícias no Rio de Janeiro?",
+    "alternativas": {
+      "A": "As milícias, assim como o Estado, controlam a população e mantêm a ordem em determinado território com o uso ilegal da violência, da ameaça e da extorsão.\\n",
+      "B": "As milícias contribuem para o exercício do monopólio do uso legítimo da violência pelo Estado, pois garantem a imposição da ordem e o controle do tráfico nos territórios que dominam.\\n",
+      "C": "As milícias desafiam o monopólio do uso legítimo da violência física do Estado ao utilizar a violência ilegalmente para controlar determinados territórios.\\n",
+      "D": "As milícias diferenciam-se dos traficantes ao atuar pacificamente em resposta à reivindicação popular por maior estabilidade e ordem nos territórios em que atuam.\\n",
+      "E": "As milícias e os traficantes, assim como o Estado, possuem autonomia e legitimidade para usar a violência e controlar territórios."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 2,
+    "num_original": "Q86",
+    "vestibular": "FUVEST 2022",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "A noção de ditadura variou ao longo da História e dependeu das características políticas de cada sociedade. A esse respeito, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Na Roma Antiga, durante o período republicano, a ditadura era uma magistratura de caráter extraordinário, delimitada legalmente e estabelecida por um período determinado, com uma finalidade definida.\\n",
+      "B": "Com o golpe do 18 Brumário (1799), instaurou-se uma ditadura parlamentar na França, sob o comando de Napoleão Bonaparte, cujo objetivo fundamental era reescrever a Constituição francesa.\\n",
+      "C": "A ditadura militar brasileira, estabelecida em 1964, teve como característica o poder exclusivo das Forças Armadas e o fechamento das instâncias parlamentares durante toda a sua vigência.\\n",
+      "D": "O conceito da ditadura do proletariado foi elaborado por Karl Marx, defendido por anarquistas e comunistas, e previa a instauração permanente de um regime autoritário, como o da antiga União Soviética.\\n",
+      "E": "A ditadura nazista caracterizava-se por um complexo arranjo institucional baseado na articulação política entre o Poder Executivo, as Forças Armadas, o Parlamento alemão e os poderes legislativos municipais."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 3,
+    "num_original": "Q89",
+    "vestibular": "FUVEST 2022",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "\"No cerne da ideologia Bannon há uma série de contrastes extraordinariamente simplificadores entre bom e mau, sagrado e profano. (...) Numa ordem social democrática, o conflito entre oponentes partidários é agonístico, não antagonístico. Bannon vê de outra forma. Não há espaço para a cortesia em seu universo (...).\" (Jeffrey Alexander) / \"O propósito da política democrática é transformar antagonismo em agonismo. Isso demanda oferecer canais por meio dos quais às paixões coletivas serão dados mecanismos de expressarem-se sobre questões que (...) não construirão o opositor como inimigo, mas como adversário.\" (Chantal Mouffe) // A partir da perspectiva apresentada nas citações, é correto afirmar que a ideologia de Steve Bannon",
+    "alternativas": {
+      "A": "defende uma ordem social agonística baseada na divisão entre grupos e nos conflitos entre inimigos políticos.\\n",
+      "B": "sustenta uma ordem social baseada em consensos e que não admite conflitos entre adversários.\\n",
+      "C": "defende a possibilidade de conflitos entre adversários, mas não admite a lógica antagonística da aniquilação e exclusão do inimigo.\\n",
+      "D": "defende uma ordem social dividida entre bom e mau e que transforma o antagonismo em agonismo.\\n",
+      "E": "sustenta uma ordem social antagonística fundada na divisão da sociedade entre lados opostos que devem ser entendidos como inimigos."
+    },
+    "gabarito": "E"
+  },
+  {
+    "id": 4,
+    "num_original": "Q02",
+    "vestibular": "FUVEST 2023",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"O voto feminino no Brasil completou 90 anos. (...) Mulheres somam 52% dos votantes, mas representam apenas 15% dos parlamentares do Congresso. A maioria da população feminina é negra, ao contrário da parlamentar, que é majoritariamente não negra. Indígena, apenas uma. (...) Dados da União Interparlamentar colocam o Brasil na posição 145º do ranking Mulheres nos Parlamentos Nacionais. (...)\" (ROSA, Ana Cristina. \"Com mulheres na cabeça\", Folha de S. Paulo, 2022.) // É correto afirmar que o cenário nacional ao qual se refere a autora do texto",
+    "alternativas": {
+      "A": "dispôs equitativamente as legislaturas, ainda que sem afetar a participação das mulheres.\\n",
+      "B": "sofreu um expressivo retrocesso quanto à participação das mulheres na política.\\n",
+      "C": "alterou-se ao longo da história do Brasil, porém não consolidou significativamente a atuação das mulheres na política.\\n",
+      "D": "adequou-se ao perfil demográfico brasileiro, embora sem alçar o país a boas posições nos rankings de mulheres na política.\\n",
+      "E": "estruturou-se por meio de vias democráticas, visto que possibilitou a discussão de problemas relacionados a fundos partidários."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 5,
+    "num_original": "Q46",
+    "vestibular": "FUVEST 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"A Pólis apresenta-se como um universo homogêneo, sem hierarquia, sem planos diversos, sem diferenciação. (...) Segundo um ciclo regulamentado, a soberania passa de um grupo a outro, de um indivíduo a outro, de tal maneira que comandar e obedecer, em vez de se oporem como dois absolutos, tornam-se os dois termos inseparáveis de uma mesma relação reversível.\" (VERNANT, Jean-Pierre. As Origens do Pensamento Grego.) // Sobre a noção de pólis expressa no texto, é correto afirmar que ela pressupõe:",
+    "alternativas": {
+      "A": "uma concepção excludente do poder político.\\n",
+      "B": "uma oposição absoluta entre comando e obediência.\\n",
+      "C": "um modelo político de democracia representativa.\\n",
+      "D": "uma participação isonômica dos cidadãos.\\n",
+      "E": "uma ausência de soberania no espaço cívico."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 6,
+    "num_original": "Q47",
+    "vestibular": "FUVEST 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"E desse modo os respectivos Lordes Espirituais, Temporais e Membros da Câmara dos Comuns (...) declaram: Que o pretenso poder de suspender as leis ou executar as leis por autoridade real sem consentimento do Parlamento é ilegal; (...) Que a criação ou manutenção de um exército permanente no reino em tempos de paz, a menos que com o consentimento do Parlamento, é ilegal.\" (English Bill of Rights, 1689.) // Considerando o texto da lei e o contexto político da Inglaterra ao fim do processo revolucionário no século XVII, é correto afirmar que a Declaração de Direitos de 1689",
+    "alternativas": {
+      "A": "suprime todas as prerrogativas do Parlamento.\\n",
+      "B": "dispensa o aval parlamentar para mudar a legislação.\\n",
+      "C": "impõe limites ao poder monárquico.\\n",
+      "D": "impossibilita a criação de um exército.\\n",
+      "E": "estabelece um regime republicano."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 7,
+    "num_original": "Q52",
+    "vestibular": "FUVEST 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "Recentemente a região do Sahel, na África, vivenciou golpes de Estado em quatro países: Sudão, Mali, Chade e Burkina Faso. Podem ser indicadas como causas da instabilidade política na região:",
+    "alternativas": {
+      "A": "Atuação de potências estrangeiras, resquícios da colonização e alto desenvolvimento tecnológico.\\n",
+      "B": "Abundância de recursos naturais, atuação de movimentos separatistas e desigualdade socioeconômica.\\n",
+      "C": "Escassez de recursos naturais, alto desenvolvimento tecnológico e diversidade étnica.\\n",
+      "D": "Desigualdade socioeconômica, diversidade étnica e elevada produção agrícola.\\n",
+      "E": "Desigualdade socioeconômica, atuação de movimentos separatistas e resquícios da colonização."
+    },
+    "gabarito": "E"
+  },
+  {
+    "id": 8,
+    "num_original": "Q48",
+    "vestibular": "COMVEST 2022",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"Pouco a pouco a noção de 'governança' toma o lugar da categoria 'soberania', tornada antiquada e desvalorizada segundo os princípios da disciplina neoliberal da globalização econômica. Para os defensores da governança, um Estado não deve mais ser julgado por sua capacidade de assegurar soberania sobre um território, mas pelo respeito às injunções de organismos internacionais que representam grandes interesses comerciais e financeiros globais.\" (Dardot e Laval, A nova razão do mundo, 2016.) // Sobre os conceitos de \"governança\" e \"soberania\", podemos afirmar que",
+    "alternativas": {
+      "A": "são sinônimos, pois fazem referência à melhor forma de ajustar a condução das empresas e dos Estados ao controle democrático das populações.\\n",
+      "B": "as legislações indiretas que beneficiam determinados interesses em detrimento do interesse público representam a vitória da soberania sobre a governança.\\n",
+      "C": "a substituição da soberania pela governança reflete a submissão do Estado a interesses econômicos privados globalizados.\\n",
+      "D": "a governança fortalece a soberania dos Estados, pois cria mecanismos de controle democrático sobre organismos internacionais.\\n",
+      "E": "ambos os conceitos buscam garantir os interesses nacionais, mas diferem quanto aos instrumentos utilizados para alcançar esse objetivo."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 9,
+    "num_original": "Q58",
+    "vestibular": "VUNESP 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"Também conhecidas como Organizações Intergovernamentais, essas instituições são criadas por países (Estados soberanos), regidas por tratados, que buscam por meio da cooperação a melhoria das condições econômicas, políticas e sociais dos associados. (...) A Organização das Nações Unidas (ONU), fundada em 1945, é a maior organização internacional do mundo. Tem como objetivos principais a manutenção da paz mundial, o respeito aos direitos humanos e o progresso social da humanidade.\" // A organização política intergovernamental mencionada no excerto assemelha-se à concepção de Estado da abordagem contratualista de Hobbes, caracterizada pelo dever do soberano de",
+    "alternativas": {
+      "A": "proteger a vida humana.\\n",
+      "B": "garantir o direito natural.\\n",
+      "C": "superar a desigualdade social.\\n",
+      "D": "ampliar a liberdade individual.\\n",
+      "E": "assegurar a propriedade privada."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 10,
+    "num_original": "Q47",
+    "vestibular": "VUNESP 2024",
+    "eixo": "eixo-4",
+    "eixo_label": "Eixo 4 — Teoria das Elites e Representação",
+    "enunciado": "No Sertão Nordestino, oligarquias representam um dos polos na desigual estrutura social, econômica e política da região. Durante o século XX, a oligarquia nordestina beneficiou-se",
+    "alternativas": {
+      "A": "da transposição do rio São Francisco, obra que objetivou desviar parte das águas desse rio para rios intermitentes com maior capacidade de abastecimento hídrico.\\n",
+      "B": "da indústria da seca, expressão que designa a relação entre a realidade de fome e miséria da população durante as longas estiagens e os recursos destinados a obras para melhorias na qualidade de vida local.\\n",
+      "C": "da remarcação de fronteiras estaduais, estratégia empregada para melhorar os resultados de investimentos federais realizados na promoção de serviços de tratamento de água e esgoto.\\n",
+      "D": "da implantação do Projeto Grande Carajás, empreendimento privado que objetivou dinamizar a economia nordestina com maciços investimentos em infraestruturas produtivas agrícolas.\\n",
+      "E": "da transferência da capital federal para Brasília, decisão que atrelou o uso de mão de obra e de empresas nordestinas para reaquecer o setor de produção de matérias-primas da região Nordeste."
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 11,
+    "num_original": "Q71",
+    "vestibular": "ENEM 2022",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"O princípio básico do Estado de direito é o da eliminação do arbítrio no exercício dos poderes públicos, com a consequente garantia de direitos dos indivíduos perante esses poderes. Estado de direito significa que nenhum indivíduo, presidente ou cidadão comum está acima da lei. Os governos democráticos exercem a autoridade por meio da lei e estão eles próprios sujeitos aos constrangimentos impostos pela lei.\" (CANOTILHO, J. J. G. Estado de direito, 1999.) // Nas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:",
+    "alternativas": {
+      "A": "Supressão de eleições de representantes políticos.\\n",
+      "B": "Intervenção em áreas de vulnerabilidade pela Igreja.\\n",
+      "C": "Disseminação de projetos sociais em universidades.\\n",
+      "D": "Ampliação dos processos de concentração de renda.\\n",
+      "E": "Regulamentação das relações de trabalho pelo Legislativo."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 12,
+    "num_original": "Q47",
+    "vestibular": "ENEM 2022",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "\"Sempre que a relevância do discurso entra em jogo, a questão torna-se política por definição, pois é o discurso que faz do homem um ser político. E tudo que os homens fazem, sabem ou experimentam só tem sentido na medida em que pode ser discutido. (...) homens no plural, isto é, os homens que vivem e se movem e agem neste mundo, só podem experimentar o significado das coisas por poderem falar e ser inteligíveis entre si e consigo mesmos.\" (ARENDT, H. A condição humana.) // No trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de",
+    "alternativas": {
+      "A": "entendimento das verdades que existem além da linguagem.\\n",
+      "B": "experiência individual do ser humano no mundo privado.\\n",
+      "C": "construção da vida política entre os homens.\\n",
+      "D": "formação de uma linguagem universal entre os povos.\\n",
+      "E": "organização do trabalho nas sociedades contemporâneas."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 13,
+    "num_original": "Q81",
+    "vestibular": "ENEM 2022",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "Decreto-Lei n. 1.949, de 27/12/1937: \"Art. 1º Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente subordinado ao presidente da República. Art. 2º O DIP tem por fim: h) coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de maior aproximação da mesma com os fatos que se ligam aos interesses nacionais; n) autorizar mensalmente a devolução dos depósitos efetuados pelas empresas jornalísticas para a importação de papel para imprensa, uma vez demonstrada, a seu juízo, a eficiência e a utilidade pública dos jornais ou periódicos por elas administrados ou dirigidos.\" // Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)",
+    "alternativas": {
+      "A": "diversificação da opinião pública.\\n",
+      "B": "mercantilização da cultura popular.\\n",
+      "C": "controle da narrativa e da imprensa pelo Estado.\\n",
+      "D": "fortalecimento da liberdade de expressão.\\n",
+      "E": "descentralização das decisões culturais."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 14,
+    "num_original": "Q83",
+    "vestibular": "ENEM 2022",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"Nascidas no Líbano, as duas irmãs não puderam ser registradas no país, porque lá é exigido que os nascidos sejam filhos de pais e mães libaneses. Seus pais, de nacionalidade síria, também não puderam registrá-las no país de origem. Na Síria, crianças só são registradas por pais oficialmente casados, o que não era o caso deles.\" // Em situações como a apresentada no texto, as pessoas ao nascerem já se encontram na condição sociopolítica de",
+    "alternativas": {
+      "A": "exiladas.\\n",
+      "B": "apátridas.\\n",
+      "C": "foragidas.\\n",
+      "D": "refugiadas.\\n",
+      "E": "clandestinas."
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 15,
+    "num_original": "Q87",
+    "vestibular": "ENEM 2024",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "\"A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunta não se fala sobre qual extensão deva ter o poder público. Trata-se somente de determinar o sujeito a quem o mando compete. A democracia propõe que mandemos todos; quer dizer, que todos intervenham nos fatos sociais.\" (ORTEGA Y GASSET, J., apud MAIA, E. C., adaptado.) // O que sustenta o exercício do poder, conforme a configuração apresentada no texto escrito na década de 1920?",
+    "alternativas": {
+      "A": "Soberania popular.\\n",
+      "B": "Divisão de classes.\\n",
+      "C": "Acúmulo de capital.\\n",
+      "D": "Defesa da propriedade.\\n",
+      "E": "Centralização administrativa."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 16,
+    "num_original": "Q56",
+    "vestibular": "ENEM 2023",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "[Charge de Laerte] Personagem diz: \"EU QUERIA PODER.\" O interlocutor pergunta: \"FORÇA? VISÃO DE RAIO X? TELECINESE? TELEPATIA?\" E a resposta é: \"PODER POLÍTICO.\" // A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela",
+    "alternativas": {
+      "A": "situação de revolta individual.\\n",
+      "B": "satisfação de desejos pessoais.\\n",
+      "C": "participação em ações decisórias.\\n",
+      "D": "permanência em passividade social.\\n",
+      "E": "conivência em interesses partidários."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 17,
+    "num_original": "Q85",
+    "vestibular": "ENEM 2024",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"Era uma vez um país, uma cidade, uma praça, algumas mães... Las Madres de Plaza de Mayo! Silenciosas, com lenços brancos na cabeça, rondavam a Praça de Maio. Incansáveis, caminharam por dias, meses, anos. Foram chamadas de loucas. Em silêncio, criaram um fato político, escancararam as entranhas da repressão, desafiaram o aparato militar e suas dores ecoaram pelo mundo.\" (GONÇALVES, R. De antigas e novas loucas.) // A ação descrita no texto é um exemplo de",
+    "alternativas": {
+      "A": "indiferença política diante da repressão estatal.\\n",
+      "B": "organização partidária clandestina contra a ditadura.\\n",
+      "C": "apoio popular ao regime militar argentino.\\n",
+      "D": "resistência civil pacífica frente ao autoritarismo de Estado.\\n",
+      "E": "movimento armado de oposição ao governo ditatorial."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 18,
+    "num_original": "Q89",
+    "vestibular": "ENEM 2024",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"O Conselho de Segurança da Organização das Nações Unidas (ONU) é, junto com a Assembleia-Geral, um dos principais órgãos de tomada de decisão dentro da entidade. O Conselho lida com questões de segurança e paz internacionais, além de recomendar a admissão de novos membros à Assembleia-Geral e aprovar mudanças na Carta das Nações Unidas. Cinco dos quinze membros são permanentes e podem vetar resoluções, o que ocorreu 261 vezes até 2020.\" // A composição e o funcionamento do organismo internacional apresentados revelam a seguinte característica das relações internacionais entre os países-membros:",
+    "alternativas": {
+      "A": "Igualdade militar.\\n",
+      "B": "Assimetria política.\\n",
+      "C": "Consenso multipolar.\\n",
+      "D": "Equilíbrio estratégico.\\n",
+      "E": "Soberania compartilhada."
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 19,
+    "num_original": "Q52",
+    "vestibular": "ENEM 2024",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"O Black Lives Matter vai para além do nacionalismo estreito que pode prevalecer no seio das comunidades negras, que se limita a apelar aos negros a amar os negros, viver como os negros e comprar produtos dos negros, e mantém à frente do movimento homens negros heterossexuais. Black Lives Matter estima as vidas dos negros e negras homossexuais e transexuais, pessoas incapacitadas, negros sem documentos ou com antecedentes criminais, mulheres e as vidas de todos os negros de todo o espectro de gêneros.\" (LA BOTZ, D.) // A reivindicação do movimento norte-americano apresentada no texto consiste na necessidade de",
+    "alternativas": {
+      "A": "manter a conquista de direitos sociais para a população negra nos EUA.\\n",
+      "B": "ampliar o conceito de direitos para abarcar a diversidade dentro da comunidade negra.\\n",
+      "C": "restringir a luta antirracista a grupos específicos dentro da comunidade negra.\\n",
+      "D": "priorizar os direitos dos homens negros heterossexuais como liderança do movimento.\\n",
+      "E": "separar as lutas de gênero e raça para torná-las mais eficazes politicamente."
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 20,
+    "num_original": "Q57",
+    "vestibular": "ENEM 2024",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"Espaços públicos não são produtos dados e acabados, uma instituição que, uma vez estabelecida, traria a paz da consensualidade e a perfeita igualdade. São os lugares em que os problemas aparecem e se transformam em debates, em diálogo e em possibilidade de ajuste e compromissos. Por isso, não anulam os conflitos, ao contrário, são canais de comunicação e de visibilidade de oposições.\" (GOMES, P. C. C. Espaço público, espaços públicos.) // As características descritas no texto exibem a importância dos espaços públicos para a",
+    "alternativas": {
+      "A": "prática do lazer.\\n",
+      "B": "vigilância da sociedade.\\n",
+      "C": "erradicação da violência.\\n",
+      "D": "construção da democracia.\\n",
+      "E": "diversificação do trabalho."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 21,
+    "num_original": "Q80",
+    "vestibular": "ENEM 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"O Golpe Militar de 1964 foi implacável no combate ao que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, sua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e cursos de liderança com base em princípios conservadores e ministrados por membros da Igreja Católica.\" (DEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil.) // Os sindicatos rurais foram tratados da forma descrita no texto porque o governo pretendia utilizá-los para",
+    "alternativas": {
+      "A": "controlar as tensões políticas.\\n",
+      "B": "limitar a legislação trabalhista.\\n",
+      "C": "divulgar o programa populista.\\n",
+      "D": "regularizar a propriedade da terra.\\n",
+      "E": "estimular a oferta de mão de obra."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 22,
+    "num_original": "Q40",
+    "vestibular": "VUNESP 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "O final da Segunda Guerra Mundial em 1945 teve impacto na política brasileira do período, porque expôs a contradição entre",
+    "alternativas": {
+      "A": "o esforço nacional de construção de mercados regionais e a unificação, no plano internacional, do mercado global.\\n",
+      "B": "a opção industrialista do regime varguista e a aceleração da demanda, no mercado internacional, de exportação de alimentos.\\n",
+      "C": "o prevalecimento de ideologias de esquerda no cenário mundial e a guinada à direita, no plano interno, do regime ditatorial.\\n",
+      "D": "a vitória externa da defesa da democracia liberal e a persistência, no âmbito interno, de um regime ditatorial.\\n",
+      "E": "a militarização dos Estados estrangeiros e a defesa intransigente, pelo governo varguista, de uma política externa pacifista."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 23,
+    "num_original": "Q36",
+    "vestibular": "VUNESP 2024",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"Não reconhecendo nós outra soberania mais de que a soberania do povo, para ela apelamos. [...] Neste país, que se presume constitucional, e onde só deveriam ter ação poderes delegados, [...] só há um poder ativo, [...] poder sagrado inviolável e irresponsável. O privilégio, em todas as suas relações com a sociedade [...] — privilégio de religião, privilégio de raça, privilégio de sabedoria, privilégio de posição — eis a fórmula social e política do nosso país. A autonomia das províncias é, pois, para nós mais do que um interesse imposto pela solidariedade dos direitos e das relações provinciais, é um princípio cardeal e solene que inscrevemos na nossa bandeira.\" (Manifesto Republicano de 1870.) // O trecho transcrito permite caracterizar o Manifesto Republicano como",
+    "alternativas": {
+      "A": "racista e liberal.\\n",
+      "B": "federalista e socialista.\\n",
+      "C": "socialista e unitarista.\\n",
+      "D": "unitarista e racista.\\n",
+      "E": "democrata e federalista."
+    },
+    "gabarito": "E"
+  },
+  {
+    "id": 24,
+    "num_original": "Q58",
+    "vestibular": "VUNESP 2022",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "\"Ora resta examinar quais devem ser os procedimentos e as resoluções do príncipe com relação aos seus súditos e aos seus aliados. Há uma grande distância entre o modo como se vive e o modo como se deveria viver, que aquele que em detrimento do que se faz privilegia o que se deveria fazer mais aprende a cair em desgraça que a preservar a sua própria pessoa. Ora, um homem que de profissão queira fazer-se permanentemente bom não poderá evitar a sua ruína, cercado de tantos que bons não são. Assim, é necessário a um príncipe que deseje manter-se príncipe aprender a não usar [apenas] a bondade.\" (MAQUIAVEL. O Príncipe.) // O tema abordado por Maquiavel no excerto também está relacionado ao seu conceito de fortuna, que diz respeito ao fato de o governante:",
+    "alternativas": {
+      "A": "privilegiar a vontade popular.\\n",
+      "B": "valorizar a vontade divina.\\n",
+      "C": "agir com virtude na vida privada.\\n",
+      "D": "conseguir equilibrar as riquezas reais.\\n",
+      "E": "saber lidar com imprevistos."
+    },
+    "gabarito": "E"
+  },
+  {
+    "id": 25,
+    "num_original": "Q59",
+    "vestibular": "VUNESP 2022",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "Texto 1: \"A ideia do panóptico coloca no centro alguém, um olho, um olhar, um princípio de vigilância que poderá de certo modo fazer sua soberania agir sobre todos os indivíduos [...]. Nessa medida, podemos dizer que o panóptico é o mais antigo sonho do mais antigo soberano: que nenhum dos meus súditos escape e que nenhum dos gestos de nenhum dos meus súditos me seja desconhecido.\" (Michel Foucault.) / Texto 2: \"Em 2013 as revelações de Edward Snowden [...] deixaram a noção de transparência democrática sob suspeita. Snowden revelou que a inteligência estadunidense realizava vigilância em massa de seus aliados e adversários políticos.\" // O fenômeno retratado nos excertos implica, diretamente,",
+    "alternativas": {
+      "A": "o reconhecimento da liberdade individual.\\n",
+      "B": "o aperfeiçoamento da interação social.\\n",
+      "C": "a diversificação do conhecimento popular.\\n",
+      "D": "a ampliação de autoridade estatal.\\n",
+      "E": "a valorização da responsabilidade coletiva."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 26,
+    "num_original": "Q50",
+    "vestibular": "q100 / ENEM 2014",
+    "eixo": "eixo-4",
+    "eixo_label": "Eixo 4 — Teoria das Elites e Representação",
+    "enunciado": "\"No sistema democrático de Schumpeter, os únicos participantes plenos são os membros de elites políticas em partidos e em instituições públicas. O papel dos cidadãos ordinários é não apenas altamente limitado, mas frequentemente retratado como uma intrusão indesejada no funcionamento tranquilo do processo 'público' de tomada de decisões.\" (HELD, D. Modelos de democracia.) // O modelo de sistema democrático apresentado pelo texto pressupõe a",
+    "alternativas": {
+      "A": "consolidação da racionalidade comunicativa.\\n",
+      "B": "adoção dos institutos do plebiscito e do referendo.\\n",
+      "C": "condução de debates entre cidadãos iguais e o Estado.\\n",
+      "D": "substituição da dinâmica representativa pelos mecanismos de participação direta.\\n",
+      "E": "concentração das decisões políticas em grupos especializados."
+    },
+    "gabarito": "E"
+  },
+  {
+    "id": 27,
+    "num_original": "Q58",
+    "vestibular": "q100 / ENEM 2014",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"Tecnocracia e democracia são antitéticas: se o protagonista da sociedade industrial é o especialista, impossível que venha a ser o cidadão qualquer. A democracia sustenta-se sobre a hipótese de que todos podem decidir a respeito de tudo. A tecnocracia, ao contrário, pretende que sejam convocados para decidir apenas aqueles poucos que detêm conhecimentos específicos.\" (BOBBIO, N. O futuro da democracia.) // Na democracia, a participação dos cidadãos nas decisões deve ser a mais ampla possível. De acordo com o texto, o exercício pleno da democracia pressupõe",
+    "alternativas": {
+      "A": "que as decisões sejam tomadas a partir de um princípio tecnocrático.\\n",
+      "B": "a restrição da participação política a especialistas em cada área.\\n",
+      "C": "que os cidadãos comuns se abstenham das decisões técnicas.\\n",
+      "D": "a rejeição da concentração de poder em grupos de especialistas.\\n",
+      "E": "que os gestores públicos definam os limites da participação popular."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 28,
+    "num_original": "Q17",
+    "vestibular": "q100 / ENEM 2016",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"A teoria da democracia participativa é construída em torno da afirmação central de que os indivíduos e suas instituições não podem ser considerados isoladamente. A existência de instituições representativas em nível nacional não basta para a democracia; pois o máximo de participação de todas as pessoas, a socialização ou 'treinamento social' precisa ocorrer em outras esferas, de modo que as atitudes e as qualidades psicológicas necessárias possam se desenvolver. Esse desenvolvimento ocorre por meio do próprio processo de participação. A principal função da participação na teoria democrática participativa é, portanto, educativa.\" (PATEMAN, C. Participação e teoria democrática.) // A principal função da participação na teoria democrática participativa, segundo o texto, é",
+    "alternativas": {
+      "A": "garantir representação formal aos cidadãos.\\n",
+      "B": "substituir instituições representativas nacionais.\\n",
+      "C": "educar e formar cidadãos capazes de participar da vida política.\\n",
+      "D": "concentrar o poder de decisão em conselhos populares.\\n",
+      "E": "limitar a participação política aos membros de movimentos sociais."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 29,
+    "num_original": "Q29",
+    "vestibular": "q100 / ENEM 2015",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "\"A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.\" (WEBER, M. A ciência como vocação.) // Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o(a)",
+    "alternativas": {
+      "A": "progresso civilizatório como decorrência da expansão do industrialismo.\\n",
+      "B": "extinção das crenças e práticas mágicas no cotidiano das pessoas.\\n",
+      "C": "crescente subordinação dos fenômenos à razão e ao cálculo.\\n",
+      "D": "necessidade de retorno às explicações religiosas e metafísicas.\\n",
+      "E": "crise do conhecimento científico diante dos limites da razão."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 30,
+    "num_original": "Q47",
+    "vestibular": "q100 / ENEM 2014",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "[Charge publicada logo após a promulgação da Constituição de 1988, referindo-se a direitos constitucionais.] // A discussão levantada na charge, publicada logo após a promulgação da Constituição de 1988, faz referência ao seguinte conjunto de direitos:",
+    "alternativas": {
+      "A": "Civis, como o direito à vida, à liberdade de expressão e à propriedade.\\n",
+      "B": "Sociais, como direito à educação, ao trabalho e à proteção à maternidade e à infância.\\n",
+      "C": "Difusos, como direito à paz, ao desenvolvimento sustentável e ao meio ambiente saudável.\\n",
+      "D": "Coletivos, como direito à organização sindical, à participação partidária e à expressão religiosa.\\n",
+      "E": "Políticos, como o direito de votar e ser votado, à soberania popular e à participação democrática."
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 31,
+    "num_original": "Q21",
+    "vestibular": "q100 / ENEM 2016",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"O MST representa a incorporação à vida política de parcela importante da população, tradicionalmente excluída pela força do latifúndio. Milhares de trabalhadores rurais se organizaram e pressionaram o governo em busca de terra para cultivar e de financiamento de safras. Seus métodos – a invasão de terras públicas ou não cultivadas – tangenciam a ilegalidade, mas, tendo em vista a opressão secular de que foram vítimas e a extrema lentidão dos governos em resolver o problema agrário, podem ser considerados legítimos.\" (CARVALHO, J. M. Cidadania no Brasil.) // O texto demonstra que movimentos como o MST",
+    "alternativas": {
+      "A": "utilizam somente métodos legais para alcançar seus objetivos políticos.\\n",
+      "B": "agem de forma isolada da sociedade, sem apoio de grupos sociais mais amplos.\\n",
+      "C": "representam a exclusão permanente de grupos populares da vida política.\\n",
+      "D": "ampliam a esfera de participação política de grupos historicamente marginalizados.\\n",
+      "E": "reproduzem a violência do Estado ao ocupar propriedades privadas e públicas."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 32,
+    "num_original": "Q59",
+    "vestibular": "COMVEST 2023",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"No livro 'A invenção dos direitos humanos', a historiadora Lynn Hunt nomeou dois mecanismos de transformação na França de fins do século XVIII. O primeiro seria a popularização dos chamados romances epistolares. (...) Para Hunt, ler relatos de tortura e romances epistolares ajudou a moldar o foro íntimo de cada um, o que teve repercussão na política.\" // Considerando o texto e o contexto histórico comentado, assinale a alternativa correta sobre os direitos humanos:",
+    "alternativas": {
+      "A": "O reconhecimento dos direitos humanos foi resultado de um processo histórico que envolveu transformações culturais e políticas.\\n",
+      "B": "A campanha contra a tortura foi irrelevante para o desenvolvimento dos direitos humanos na França do século XVIII.\\n",
+      "C": "Os romances epistolares fortaleceram o individualismo e enfraqueceram o senso de responsabilidade política.\\n",
+      "D": "A Revolução Francesa aconteceu independentemente das transformações culturais descritas por Lynn Hunt.\\n",
+      "E": "Os direitos humanos foram criados exclusivamente por juristas e legisladores, sem influência da cultura popular."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 33,
+    "num_original": "Q62",
+    "vestibular": "COMVEST 2023",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "\"Como pode um povo vivo / Viver nesta carestia / (...) Como pode um operário / Viver com esse salário / Como pode a criançada / Estudar sem comer nada\" (Letra do abaixo-assinado do Movimento do Custo de Vida, 1978.) // A letra acima foi utilizada pela campanha coordenada pelo Movimento Custo de Vida, iniciado por mulheres das periferias da cidade de São Paulo, em 1978. Sobre as lutas por melhores condições de vida durante a década de 1970 na ditadura militar (1964-85), é correto afirmar que",
+    "alternativas": {
+      "A": "o Movimento do Custo de Vida foi organizado para protestar contra as políticas econômicas do regime, utilizando o abaixo-assinado como forma de pressão política legítima mesmo sob a ditadura.\\n",
+      "B": "os movimentos sociais eram impossibilitados de qualquer forma de ação política durante a ditadura militar.\\n",
+      "C": "a ditadura militar apoiou os movimentos de mulheres das periferias como forma de ampliar sua base social.\\n",
+      "D": "os movimentos sociais da época se restringiam a ações armadas clandestinas contra o regime.\\n",
+      "E": "a resistência popular à ditadura se limitou a manifestações de intelectuais e artistas."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 34,
+    "num_original": "Q63",
+    "vestibular": "COMVEST 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"Sobre os debates entre os Governos do Mercosul, é importante destacar que existem instâncias de construção de memórias regionais. Estas experiências acompanham os processos de verdade e justiça que estão em andamento nos países para revisar, investigar e julgar os crimes de lesa-humanidade cometidos, no passado, pelo Estado.\" (Mercosul/IPPDH, 2012.) // A partir do excerto e de seus conhecimentos, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Embora o Mercosul seja definido pela integração econômica, seus países membros também cooperam no campo dos direitos humanos e da memória das ditaduras.\\n",
+      "B": "Os processos de verdade e justiça no Mercosul resultaram na punição imediata de todos os responsáveis pelos crimes de lesa-humanidade.\\n",
+      "C": "A construção de memórias regionais no Mercosul é liderada exclusivamente pelos países com maior produto interno bruto.\\n",
+      "D": "Os lugares de Memória no Mercosul têm caráter exclusivamente turístico, sem função política ou pedagógica.\\n",
+      "E": "A integração econômica do Mercosul impede qualquer cooperação no campo dos direitos humanos."
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 35,
+    "num_original": "Q18",
+    "vestibular": "COMVEST 2024",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno e Regimes Políticos",
+    "enunciado": "\"Prisões e torturas igualmente triplicaram, principalmente as de jornalistas. Dentre elas, a mais emblemática foi a de Vladimir Herzog, diretor da TV Cultura, que, embora fosse militante do PCB, não desenvolvia atividade clandestina nem pertencia aos quadros do partido. Herzog foi assassinado dentro do DOI-CODI, sendo a versão oficial de sua morte falsamente atribuída a um enforcamento.\" (LIMA, N. Ditadura no Brasil e Censura nas Canções de Rita Lee.) // A partir da leitura do texto e de seus conhecimentos a respeito desse período da História do Brasil, é correto afirmar, sobre os eventos narrados, que",
+    "alternativas": {
+      "A": "Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre outros artistas nacionais, tinham liberdade total de expressão durante a ditadura militar.\\n",
+      "B": "a censura e a repressão da ditadura afetaram apenas militantes políticos, não alcançando profissionais da comunicação e da cultura.\\n",
+      "C": "o assassinato de Herzog foi investigado e punido imediatamente pelo próprio regime militar.\\n",
+      "D": "a ditadura militar utilizou a repressão e a censura como instrumentos de controle social e político, atingindo jornalistas, artistas e militantes.\\n",
+      "E": "os órgãos de repressão como o DOI-CODI atuavam de forma transparente e dentro dos limites legais estabelecidos."
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 36,
+    "num_original": "Q49",
+    "vestibular": "COMVEST 2024",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania, Direitos e Participação",
+    "enunciado": "Texto 1: Manifesto de lançamento da \"Coalizão Negra Por Direitos\", reunião de entidades e coletivos do movimento negro brasileiro, 2020. / Texto 2: \"O sociólogo Octavio Ianni afirmou que democracia e cidadania são processos políticos marcados por dificuldades e retrocessos, pois a participação social – especialmente a de grupos como mulheres, negros, indígenas – é uma luta penosa e que, no Brasil, vem sendo realizada precariamente ao longo da história.\" // De acordo com os textos 1 e 2, é possível dizer que, no caso brasileiro, os conceitos de democracia e de cidadania",
+    "alternativas": {
+      "A": "são limitados pela persistência histórica do racismo, pois os movimentos sociais pouco se ocupam dessa temática, reduzindo a possibilidade de avanços democráticos.\\n",
+      "B": "foram consolidados de forma plena com a promulgação da Constituição de 1988, que garantiu igualdade a todos os grupos sociais.\\n",
+      "C": "são processos inacabados e marcados por disputas, especialmente para grupos historicamente marginalizados como negros, mulheres e indígenas.\\n",
+      "D": "dependem exclusivamente da organização de movimentos sociais, sem relação com políticas públicas ou reformas institucionais.\\n",
+      "E": "atingiram seu pleno desenvolvimento nas últimas décadas, com a eleição de representantes de diferentes grupos sociais."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 38,
+    "num_original": "Q25",
+    "vestibular": "VUNESP 2021",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "O princípio é: na periferia, uma construção em anel;\\nno centro, uma torre; esta possui grandes janelas que se\\nObserve as imagens e leia o texto.\\nabrem para a parte interior do anel. A construção periférica\\né dividida em celas, cada uma ocupando toda a largura da\\nconstrução. Estas celas têm duas janelas: uma abrindo-se\\npara o interior, correspondendo às janelas da torre; outra,\\ndando para o e xterior, permite que a luz atravesse a cela\\nde um lado a outro. Basta então colocar um vigia na torre\\ncentral e em cada cela trancafiar um louco, um doente, um\\ncondenado, um operário ou um estudante. Devido ao efeito\\nde contraluz, pode-se perceber da torre, recortando-se na\\nluminosidade, as pequenas silhuetas prisioneiras nas celas\\nda periferia. Em suma, inverte-se o princípio da masmorra;\\na luz e o olhar de um vigia captam melhor que o escuro que,\\nno fundo, protegia. […]\\nAs mudanças econômicas do século XVIII tornaram\\nn ecessário fazer circular os efeitos do poder por canais cada\\nvez mais sutis, chegando até os próprios indivíduos, seus cor-\\npos, seus gestos, cada um de seus desempenhos cotidianos.\\nQue o poder, mesmo tendo uma multiplicidade de homens a\\ngerir, seja tão eficaz quanto se ele se exercesse sobre um\\nsó. […] Bentham […] coloca o problema da visibilidade, mas\\npensando em uma visibilidade organizada inteiramente em\\ntorno de um olhar dominador e vigilante. Ele faz funcionar o\\nprojeto de uma visibilidade universal, que agiria em proveito\\nProjeto do panóptico, novo modelo de vigilância, pro-\\nde um poder rigoroso e meticuloso.\\nposto por Jeremy Bentham no final do sécul o XVIII,\\npara ser utilizado em presídios e outros espaços que (Michel Foucault. Microfísica do poder, 1979.)\\nexigissem controle rigoroso.\\nO projeto do panóptico de Bentham associou-se, na origem,\\n(A) à lógica do individualismo e da racionalidade difundidos\\nno Iluminismo, e hoje manifesta-se indiretamente no uso\\nsistemático de câmeras de segurança para a vigilância\\ndo cotidiano.\\n(B) à defesa do igualitarismo social proposta pelos formula-\\ndores das doutrinas socialistas, e hoje manifesta-se nos\\nprojetos arquitetônicos de prisões e quartéis desenvolvi-\\ndos nos países comunistas.\\n(C) ao predomínio da visão sobre os outros sentidos nas\\nsociedades orientais tradicionais, e hoje expressa-se na\\npresença de aparelhos de televisão na maioria das resi-\\nPresídio da Ilha de Pinos, em Cuba, construído no final da década de\\ndências e dos estabelecimentos comerciais.\\n1920, a partir do modelo do panóptico, e hoje abandonado.\\n(https://medium.com) (D) ao esforço de centralização do poder no âmbito do abso-\\nlutismo monárquico e da formação dos Estados moder-\\nnos, e hoje expressa-se na ação repressiva e controla-\\ndora dos regimes totalitários.\\n(E) à luta pela democratização nas sociedades ocidentais\\ncontemporâneas, e hoje manifesta-se no amplo direito de\\nacesso à informação e à expressão proporcionado pela\\ninternet e pelas redes sociais.\\nvnsp2006 | 003-CE-provaObjetiva-Redação 10",
+    "alternativas": {
+      "A": "à lógica do individualismo e da racionalidade difundidos\\nno Iluminismo, e hoje manifesta-se indiretamente no uso\\nsistemático de câmeras de segurança para a vigilância\\ndo cotidiano.\\n",
+      "B": "à defesa do igualitarismo social proposta pelos formula-\\ndores das doutrinas socialistas, e hoje manifesta-se nos\\nprojetos arquitetônicos de prisões e quartéis desenvolvi-\\ndos nos países comunistas.\\n",
+      "C": "ao predomínio da visão sobre os outros sentidos nas\\nsociedades orientais tradicionais, e hoje expressa-se na\\npresença de aparelhos de televisão na maioria das resi-\\nPresídio da Ilha de Pinos, em Cuba, construído no final da década de\\ndências e dos estabelecimentos comerciais.\\n1920, a partir do modelo do panóptico, e hoje abandonado.\\n(https://medium.com)",
+      "D": "ao esforço de centralização do poder no âmbito do abso-\\nlutismo monárquico e da formação dos Estados moder-\\nnos, e hoje expressa-se na ação repressiva e controla-\\ndora dos regimes totalitários.\\n",
+      "E": "à luta pela democratização nas sociedades ocidentais\\ncontemporâneas, e hoje manifesta-se no amplo direito de\\nacesso à informação e à expressão proporcionado pela\\ninternet e pelas redes sociais.\\nvnsp2006 | 003-CE-provaObjetiva-Redação 10"
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 39,
+    "num_original": "Q27",
+    "vestibular": "VUNESP 2021",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno",
+    "enunciado": "(Renato Lemos (org.).\\nA glorificação da guerra e do heroísmo já era tema cons- Uma história do Brasil através da caricatura: 1840-2006, 2006.)\\ntante na literatura nacionalista […]; os escritores nazistas só\\nO diálogo entre o elefante e as cobras, associado à decreta-\\nvieram repetir os clichês já surrados de exaltação dos valores\\nção do Ato Institucional número 5, sugere\\nmilitares, do sacrifício, da força da guerra como fator de soer-\\nguimento do orgulho nacional. […]\\n(A) a alienação de parte expressiva da sociedade ante o\\nPara o nazismo, a guerra era o cume de uma decisão\\nc enário político e a difusão de notícias falsas.\\nde cuja verdade não se poderia escapar. Sabiam que tudo\\nestava sendo jogado nela. (B) a solidez das instituições políticas republicanas e a disse-\\n(Alcir Lenharo. Nazismo: o triunfo da vontade, 1986.) minação do medo por traidores dos interesses nacionais.\\nNo contexto histórico descrito, (C) o contraste entre o esforço militar de corrigir os rumos do\\npaís e a desconfiança da sociedade civil.\\n(A) os nazistas acreditavam que “a guerra era o cume de\\numa decisão de cuja verdade não se poderia escapar”,\\n(D) o poder dos grupos sociais e políticos fortes e consolida-\\npois defendiam, nos seus textos teóricos, que os huma-\\ndos e a incerteza entre os setores populares.\\nnos são, no estado de natureza, bons selvagens.\\n(E) o distanciamento entre a sociedade e o regime político e\\n(B) os nazistas reproduziram a “exaltação dos valores milita-\\na dissolução das garantias e dos direitos democráticos.\\nres” da literatura nacionalista, pois identificavam-se aos\\nvalores e princípios socialistas dos principais autores ale-\\nmães do século XIX.\\n(C) o “soerguimento do orgulho nacional” associa-se à neces-\\nsidade de recuperar os territórios perdidos pela Alemanha\\nna Guerra Franco-Prussiana e ao sucesso da ocupação\\nmilitar nazista da Polônia e da União Soviética.\\n(D) a “glorificação da guerra” relaciona-se ao enaltecimento\\ndas campanhas militares dos alemães na História e à sus-\\ntentação, pela ideologia nazista, da centralidade do con-\\nflito como hierarquizador de pessoas e nações.\\n(E) a “glorificação do heroísmo” relaciona-se à mitificação de\\nações de guerreiros individuais, que atuam no campo de\\nbatalha mesmo em condição de inferioridade numérica e\\nde armamentos.\\n11 vnsp2006 | 003-CE-provaObjetiva-Redação",
+    "alternativas": {
+      "A": "a alienação de parte expressiva da sociedade ante o\\nPara o nazismo, a guerra era o cume de uma decisão\\nc enário político e a difusão de notícias falsas.\\nde cuja verdade não se poderia escapar. Sabiam que tudo\\nestava sendo jogado nela.",
+      "B": "a solidez das instituições políticas republicanas e a disse-\\n(Alcir Lenharo. Nazismo: o triunfo da vontade, 1986.) minação do medo por traidores dos interesses nacionais.\\nNo contexto histórico descrito,",
+      "C": "o contraste entre o esforço militar de corrigir os rumos do\\npaís e a desconfiança da sociedade civil.\\n(A) os nazistas acreditavam que “a guerra era o cume de\\numa decisão de cuja verdade não se poderia escapar”,\\n",
+      "D": "o poder dos grupos sociais e políticos fortes e consolida-\\npois defendiam, nos seus textos teóricos, que os huma-\\ndos e a incerteza entre os setores populares.\\nnos são, no estado de natureza, bons selvagens.\\n",
+      "E": "o distanciamento entre a sociedade e o regime político e\\n"
+    },
+    "gabarito": "D"
+  },
+  {
+    "id": 40,
+    "num_original": "Q28",
+    "vestibular": "VUNESP 2021",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno",
+    "enunciado": "As revoluções inglesas do século XVII são consideradas, por Observe a charge de Ziraldo, originalmente publicada em 1968.\\nalguns historiadores, as primeiras revoluções burguesas, pois\\n(A) suprimiram a interferência política da nobreza e separa-\\nram Estado e Igreja.\\n(B) ampliaram o espaço de atuação política e comercial dos\\ncomerciantes britânicos.\\n(C) eliminaram o sistema monárquico e implantaram uma\\nestrutura republicana.\\n(D) proporcionaram o surgimento de legislação trabalhista\\npara a cidade e o campo.\\n(E) impediram a expansão do Estado democrático e da parti-\\ncipação política direta.",
+    "alternativas": {
+      "A": "suprimiram a interferência política da nobreza e separa-\\nram Estado e Igreja.\\n",
+      "B": "ampliaram o espaço de atuação política e comercial dos\\ncomerciantes britânicos.\\n",
+      "C": "eliminaram o sistema monárquico e implantaram uma\\nestrutura republicana.\\n",
+      "D": "proporcionaram o surgimento de legislação trabalhista\\npara a cidade e o campo.\\n",
+      "E": "impediram a expansão do Estado democrático e da parti-\\ncipação política direta."
+    },
+    "gabarito": "E"
+  },
+  {
+    "id": 41,
+    "num_original": "Q56",
+    "vestibular": "VUNESP 2022",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "Ora resta examinar quais devem ser os procedimentos\\n— É nesse ponto que eu estabeleço a distinção: para e as resoluções do príncipe com relação aos seus súditos\\num lado os que ainda agora referiste — amadores de espe- e aos seus aliados. Há uma grande distância entre o modo\\ntáculos, amigos das artes e homens de ação — e para outro como se vive e o modo como se deveria viver, que aquele\\naqueles de quem estamos a tratar, os únicos que com razão que em detrimento do que se faz privilegia o que se deveria\\npodem chamar-se filósofos. fazer mais aprende a cair em desgraça que a preservar a\\n— Que queres dizer? sua própria pessoa. Ora, um homem que de profissão queira\\n— Os amadores de audições e de espetáculos encan- fazer-se permanentemente bom não poderá evitar a sua ruí-\\ntam-se com as belas vozes, cores e formas e todas as obras na, cercado de tantos que bons não são. Assim, é necessário\\nfeitas com tais elementos, embora o seu espírito seja incapaz a um príncipe que deseje manter-se príncipe aprender a não\\nde discernir e de amar a natureza do belo em si. usar [apenas] a bondade.\\n(Platão. A República, 2017. Adaptado.) (Nicolau Maquiavel. O Príncipe, 1998. Adaptado.)\\nNo excerto, Platão direciona aos artistas uma crítica que é O tema abordado por Maquiavel no excerto também está re-\\nfundamentada lacionado ao seu conceito de fortuna, que diz respeito ao fato\\nde o governante\\n(A) na associação das artes com o conhecimento mitológico.\\n(A) privilegiar a vontade popular.\\n(B) na impossibilidade de representação justa das ideias.\\n(B) valorizar a vontade divina.\\n(C) na necessidade de as artes terem um conteúdo veros-\\nsímil. (C) agir com virtude na vida privada.\\n(D) no grande alcance popular atingido pelas peças artís- (D) conseguir equilibrar as riquezas reais.\\nticas.\\n(E) saber lidar com imprevistos.\\n(E) no fato de os espetáculos serem parâmetros pedagó-\\ngicos.\\nvnsp2105 | 002-CG-provaObjetiva-Grupo-2 18 Confidencial até o momento da aplicação.",
+    "alternativas": {
+      "A": "na associação das artes com o conhecimento mitológico.\\n(A) privilegiar a vontade popular.\\n",
+      "B": "na impossibilidade de representação justa das ideias.\\n",
+      "C": "na necessidade de as artes terem um conteúdo veros-\\nsímil.",
+      "D": "no grande alcance popular atingido pelas peças artís-",
+      "E": "saber lidar com imprevistos.\\n"
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 42,
+    "num_original": "Q61",
+    "vestibular": "VUNESP 2022",
+    "eixo": "eixo-1",
+    "eixo_label": "Eixo 1 — Política e Poder",
+    "enunciado": "Texto 1 Leia alguns dos versos da canção Passaredo, de Chico\\nA ideia do panóptico coloca no centro alguém, um olho, Buarque e Francis Hime.\\num olhar, um princípio de vigilância que poderá de certo Ei, pintassilgo Some, coleiro\\nmodo fazer sua soberania agir sobre todos os indivíduos [si- Oi, pintarroxo Anda, trigueiro\\ntuados] no interior dessa máquina de poder. Nessa medida, Melro, uirapuru Te esconde, colibri\\npodemos dizer que o panóptico é o mais antigo sonho do Ai, chega-e-vira Voa, macuco\\nmais antigo soberano: que nenhum dos meus súditos escape Engole-vento Voa, viúva\\ne que nenhum dos gestos de nenhum dos meus súditos me Saíra, inhambu Utiariti\\nseja desconhecido. Foge, asa-branca Bico calado\\n(Michel Foucault. Segurança, território, população, 2008. Adaptado.) Vai, patativa Toma cuidado\\nTordo, tuju, tuim Que o homem vem aí\\nTexto 2\\nXô, tié-sangue O homem vem aí\\nEm 2013 as revelações de Edward Snowden, ex-funcio- Xô, tié-fogo O homem vem aí\\nnário da Agência de Segurança Nacional dos Estados Uni- Xô, rouxinol, sem-fim\\ndos, deixaram a noção de transparência democrática sob (www.letras.mus.br)\\nsuspeita. Snowden revelou que a inteligência estadunidense\\nrealizava vigilância em massa de seus aliados e adversários Nesse trecho da canção, os autores citam 23 nomes popu-\\npolíticos. A espionagem ocorreu logrando acesso legal ou for- lares, pelos quais essas aves são conhecidas. Contudo, no\\nçado aos servidores de boa parte das maiores empresas de que se refere à classificação taxonômica, e considerando\\ninternet. apenas as informações do trecho da canção, as aves cita-\\ndas pertencem a\\n(Davi Lago. “O panóptico digital: por que devemos suspeitar da palavra\\n‘transparência’?”. https://estadodaarte.estadao.com.br, 29.08.2019. (A) 23 gêneros, mas não se pode inferir sobre o número de\\nAdaptado.)\\nespécies.\\nO fenômeno retratado nos excertos implica, diretamente,\\n(B) um único gênero, mas não se pode inferir sobre o número\\n(A) o reconhecimento da liberdade individual. de espécies.\\n(B) o aperfeiçoamento da interação social. (C) 23 espécies, todas elas classificadas em um único\\ngênero.\\n(C) a diversificação do conhecimento popular.\\n(D) uma única família, mas não se pode inferir sobre o\\n(D) a ampliação de autoridade estatal.\\nnúmero de ordens.\\n(E) a valorização da responsabilidade coletiva.\\n(E) uma única classe, mas não se pode inferir sobre o\\nnúmero de gêneros.",
+    "alternativas": {
+      "A": "23 gêneros, mas não se pode inferir sobre o número de\\nAdaptado.)\\nespécies.\\nO fenômeno retratado nos excertos implica, diretamente,\\n",
+      "B": "um único gênero, mas não se pode inferir sobre o número\\n(A) o reconhecimento da liberdade individual. de espécies.\\n",
+      "C": "23 espécies, todas elas classificadas em um único\\ngênero.\\n",
+      "D": "uma única família, mas não se pode inferir sobre o\\n",
+      "E": "a valorização da responsabilidade coletiva.\\n"
+    },
+    "gabarito": "E"
+  },
+  {
+    "id": 43,
+    "num_original": "Q30",
+    "vestibular": "VUNESP 2023",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno",
+    "enunciado": "No pensamento grego, tudo o que é \"musical\" se relaciona intimamente com o ritual, sobretudo com as festas, nas quais, evidentemente, o ritual possui sua função específica. Talvez não haja uma descrição mais lúcida das relações entre o ritual, a dança, a música e o jogo do que a das Leis de Platão. Os deuses, diz ele, cheios de piedade pela raça humana, condenada ao sofrimento, ordenaram que se realizassem as festas de ação de graças como descanso para suas preocupações, e deram-lhes Apolo, as Musas e Dionísio como companheiros dessas festas, a fim de que essa divina comunidade festiva restabelecesse a ordem das coisas entre os homens.\n(Johan Huizinga. Homo ludens, 2007.)\n\nO excerto, que aborda história e pensamento na Grécia Antiga, caracteriza",
+    "alternativas": {
+      "A": "a dimensão material dos sentimentos e das ações políticas dos homens, sustentada pela filosofia clássica.",
+      "B": "a centralidade do mito na sociedade antiga grega e o vínculo desse mito com manifestações de caráter público.",
+      "C": "a fragilidade do politeísmo perante a lógica e a incapacidade desse politeísmo de mobilizar politicamente a sociedade.",
+      "D": "as origens filosóficas da piedade e do sentimento de culpa posteriormente apropriados pelo cristianismo.",
+      "E": "as matrizes religiosas da democracia grega e o reconhecimento por essa democracia da igualdade entre os homens livres."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 44,
+    "num_original": "Q42",
+    "vestibular": "VUNESP 2023",
+    "eixo": "eixo-5",
+    "eixo_label": "Eixo 5 — Cidadania",
+    "enunciado": "Nenhum grupo de mulheres brancas conheceu melhor a As transformações no tempo e no espaço são responsá-\\ndiferença entre seu próprio status e o status das mulheres veis também pela ressignificação de conceitos, de modo que\\nnegras do que o grupo de mulheres brancas politicamente a pobreza urbana de hoje não é a mesma que a de décadas\\nconscientes e ativistas na luta pelos direitos civis. Ainda as- atrás [...].\\nsim, várias dessas mulheres deslocaram-se das lutas pelos O imperativo das finanças permitiu a renovação dos pa-\\ndireitos civis para as lutas pela libertação da mulher e lidera- drões de consumo das camadas mais pobres das cidades,\\nram um movimento feminista em que suprimiram e negaram que experimentam, ao mesmo tempo, a precariedade em\\na consciência sobre as diferenças que viram e ouviram. seu cotidiano. Dessa maneira, pobreza urbana é nova por-\\nElas entraram para o movimento feminista apagando e que possui os conteúdos do atual período da história, e é\\nnegando a diferença, sem pensar em raça e gênero juntos, velha porque ocorre em copresença da falta de serviços e\\nmas eliminando raça do cenário. infraestruturas básicas.\\n(bell hooks. O feminismo é para todo mundo: (Kauê Lopes dos Santos. Uma nova pobreza urbana: financeirização do\\npolíticas arrebatadoras, 2018. Adaptado.) consumo e novos espaços da periferia de São Paulo, 2017.)\\nAo abordar aspectos do Movimento pelos Direitos Civis nos O excerto identifica\\nEstados Unidos da década de 1960, o excerto\\n(A) a contradição no perfil da pobreza nas cidades contem-\\n(A) aponta o insucesso das reivindicações de igualdade de porâneas e define espaço como uma acumulação desi-\\nraça e gênero e a persistência de padrões históricos de gual de temporalidades.\\ndesigualdade na sociedade norte-americana.\\n(B) o aumento de consumo de bens duráveis e semiduráveis\\n(B) lamenta a ausência de uma história de mobilizações pela população pobre urbana e celebra o sucesso da po-\\nfeministas e negras e de uma disposição das mulheres lítica desenvolvimentista dos anos 1950.\\nbrancas para atuar em defesa das conquistas de direitos\\n(C) a expansão territorial das metrópoles dos países emer-\\nsociais.\\ngentes e questiona a importância do estudo do passado\\n(C) identifica a ocorrência em paralelo de ações afirmativas para compreender os problemas do presente.\\ndas mulheres e dos negros e a falta de conexão entre\\n(D) o impacto da modernização tecnológica das grandes ci-\\nesses dois campos de reivindicação de direitos.\\ndades dos países subdesenvolvidos e destaca a implan-\\n(D) caracteriza a mudança radical por que passou a socieda- tação de políticas de aceleração do desenvolvimento nos\\nde norte-americana no período e o nascimento de inter- anos 2000.\\nconexões entre os movimentos negro e feminista.\\n(E) a paralisia do setor financeiro privado diante do aumento\\n(E) enfatiza a importância da estratégia política do ativismo da pobreza na década de 2010 e indica uma tendência\\nfeminista e sua influência sobre as mobilizações poste- de investimen",
+    "alternativas": {
+      "A": "a contradição no perfil da pobreza nas cidades contem-\\n(A) aponta o insucesso das reivindicações de igualdade de porâneas e define espaço como uma acumulação desi-\\nraça e gênero e a persistência de padrões históricos de gual de temporalidades.\\ndesigualdade na sociedade norte-americana.\\n",
+      "B": "o aumento de consumo de bens duráveis e semiduráveis\\n",
+      "C": "a expansão territorial das metrópoles dos países emer-\\nsociais.\\ngentes e questiona a importância do estudo do passado\\n",
+      "D": "o impacto da modernização tecnológica das grandes ci-\\nesses dois campos de reivindicação de direitos.\\ndades dos países subdesenvolvidos e destaca a implan-\\n",
+      "E": "a paralisia do setor financeiro privado diante do aumento\\n"
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 45,
+    "num_original": "Q42",
+    "vestibular": "VUNESP 2024",
+    "eixo": "eixo-2",
+    "eixo_label": "Eixo 2 — Estado Moderno",
+    "enunciado": "O verdadeiro horror dos campos de concentração e de Examine a tabela de investimentos em infraestrutura econô-\\nextermínio reside no fato de os internados, mesmo que con- mica no Brasil, no período de 1990 a 1998, com os volumes\\nsigam manter-se vivos, estarem mais isolados do mundo dos de capitais expressos em bilhões de dólares e suas respec-\\nvivos do que se tivessem morrido, porque o horror compe- tivas proporções em relação ao Produto Interno Bruto (PIB).\\nle ao esquecimento. No mundo concentracionário, mata-se\\num homem tão impessoalmente como se mata um mosquito. Tele-\\nSetores Energia Transportes Total\\nUma pessoa pode morrer em consequência de tortura ou de comunicações\\nfome sistemática, ou porque o campo está superpovoado e\\nUS$ bi % PIB US$ bi % PIB US$ bi % PIB US$ bi % PIB\\nhá necessidade de liquidar o material humano supérfluo.\\n1990 8,8 2,40 1,6 0,44 0,6 0,16 11,0 3,0\\n(Hannah Arendt. O sistema totalitário, 1978.)\\n1991 5,7 1,52 2,8 0,74 0,9 0,24 9,4 2,5\\n1992 4,9 1,18 2,8 0,68 1,0 0,24 8,7 2,1\\nAo caracterizar a peculiaridade das ações nazistas nos cam-\\npos de concentração e de extermínio, o excerto refere-se 1993 4,5 0,99 3,2 0,71 0,9 0,20 8,6 1,9\\ndiretamente 1994 3,9 0,66 3,2 0,54 1,2 0,20 8,3 1,4\\n1995 4,2 0,68 4,0 0,65 1,1 0,18 9,3 1,5\\n(A) à ausência de condições básicas de higiene.\\n1996 4,0 0,59 6,0 0,88 1,6 0,23 11,6 1,7\\n(B) à coisificação dos prisioneiros. 1997 4,8 0,56 7,5 0,87 1,5 0,17 13,8 1,6\\n1998 5,4 0,60 3,7 0,41 0,8 0,09 9,9 1,1\\n(C) ao respeito aos direitos humanos.\\n(Ricardo Carneiro. Desenvolvimento em crise:\\n(D) ao prevalecimento do nacionalismo. a economia brasileira no último quarto do século XX, 2002. Adaptado.)\\n(E) à escravização dos prisioneiros. A partir dos dados da tabela e considerando a experiência\\nhistórica brasileira no período, tem-se que\\n(A) o investimento no setor de transportes teve aumento con-\\ntínuo após 1994, em virtude da aceleração do crescimen-\\nto econômico provocado pelo Plano Real.\\n(B) o setor de telecomunicações, impulsionado pelas mudan-\\nças tecnológicas em curso, recebeu, em 1996 e 1997,\\nmais da metade dos investimentos realizados nos três\\nsetores nestes dois anos.\\n(C) o percentual do PIB foi reduzido, em 1998, à metade do\\nque era no primeiro ano do período analisado, indicando\\na retração econômica provocada pelos planos de estabi-\\nlização da inflação.\\n(D) o setor energético recebeu maiores investimentos no pe-\\nríodo posterior ao Plano Real, devido à exploração de\\npetróleo nas áreas do Pré-Sal, realizada ao longo de todo\\no período analisado.\\n(E) o setor de transportes recebeu suas maiores porcenta-\\ngens de investimentos em 1995 e em 1997, em razão do\\nforte aumento do percentual do PIB ocorrido nestes dois\\nanos.\\nConfidencial até o momento da aplicação. 15 VNSP2303 | 001-CG-ProvaObjetiva",
+    "alternativas": {
+      "A": "à ausência de condições básicas de higiene.\\n1996 4,0 0,59 6,0 0,88 1,6 0,23 11,6 1,7\\n",
+      "B": "à coisificação dos prisioneiros. 1997 4,8 0,56 7,5 0,87 1,5 0,17 13,8 1,6\\n1998 5,4 0,60 3,7 0,41 0,8 0,09 9,9 1,1\\n",
+      "C": "ao respeito aos direitos humanos.\\n(Ricardo Carneiro. Desenvolvimento em crise:\\n",
+      "D": "ao prevalecimento do nacionalismo. a economia brasileira no último quarto do século XX, 2002. Adaptado.)\\n",
+      "E": "à escravização dos prisioneiros. A partir dos dados da tabela e considerando a experiência\\nhistórica brasileira no período, tem-se que\\n(A) o investimento no setor de transportes teve aumento con-\\ntínuo após 1994, em virtude da aceleração do crescimen-\\nto econômico provocado pelo Plano Real.\\n"
+    },
+    "gabarito": "B"
+  }
+]
